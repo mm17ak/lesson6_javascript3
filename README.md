@@ -4,19 +4,15 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+07/10/2018
 
 ### Student Name:  
-(First and Last Name)
+Mikael Mikaelian
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this assignment we created a photo gallery application that displays images allowing the users the option navigate. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mm17ak.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+During this assignment we accessed elements by id, tag name, class or selector. In doing so, we created a photo gallery application that allows the user to scroll through five images. We also added and removed document nodes. 
